@@ -14,6 +14,14 @@ System.out.println("KERALA");
 System.out.println("DELHI");
 }
 	
+	private void andraPradesh() {
+		System.out.println("andrapradesh");
+	}
+	
+	private void madhyapradesh() {
+		System.out.println("madhyapradesh");
+	}
+	
 	private void tvs() {
 		System.out.println("TVS");
 }
@@ -21,5 +29,4 @@ System.out.println("DELHI");
 	private void hero() {
 		System.out.println("HERO");
 		}
-
 }
