@@ -13,5 +13,14 @@ System.out.println("KERALA");
 	private void delhi() {
 System.out.println("DELHI");
 }
+	
+	private void andraPradesh() {
+		System.out.println("andrapradesh");
+	}
+	
+	private void madhyapradesh() {
+		System.out.println("madhyapradesh");
+	}
 
+	
 }
