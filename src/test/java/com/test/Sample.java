@@ -21,6 +21,12 @@ System.out.println("DELHI");
 	private void madhyapradesh() {
 		System.out.println("madhyapradesh");
 	}
-
 	
+	private void tvs() {
+		System.out.println("TVS");
+}
+	
+	private void hero() {
+		System.out.println("HERO");
+		}
 }
